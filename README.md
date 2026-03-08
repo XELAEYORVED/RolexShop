@@ -38,14 +38,13 @@ Le panneau d'administration permet une gestion complète des ressources :
 
 ---
 
-## 🚀 Installation locale
-1.  Cloner le dépôt dans votre dossier `www` ou `htdocs`.
-2.  Importer le fichier `occasirolex.sql` dans votre interface **phpMyAdmin**.
-3.  Configurer les identifiants de connexion dans le fichier `config.php`.
-4.  Ouvrir votre navigateur sur `localhost/occas-rolex`.
-
----
-
-**Réalisé par :** [Ton Nom]  
-**Année académique :** 2025 - 2026  
+**Réalisé par :** Devroye Alexandre  
+**Année académique :** 2022 - 2023  
 **École :** Institut Provincial d'Enseignement Secondaire (IPAM Nivelles)
+
+
+
+
+
+
+
